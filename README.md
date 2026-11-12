@@ -1,2 +1,4 @@
 # AulaMini60-pilot
 A tool to capture configuration profiles for the AULA Mini 60 keyboard and switch between them based on the currently pinned window.
+项目在master分支
+The project is on the master branch
