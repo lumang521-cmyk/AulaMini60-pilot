@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/
+_smoke_data/
+_shot_data/
+tests/_tmp/
+test_output.txt
+docs/screenshot2.png
+.build/
+*.spec
